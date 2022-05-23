@@ -62,5 +62,5 @@ Santosh Shivam [Twitter](http://twitter.com/santshvm) | [LinkedIn](https://www.l
 <br> 
 <hr> 
 <p align="center"> 
-  Santosh Shivam 2022 ©
+  © 2022 Santosh Shivam 
  </p> 
