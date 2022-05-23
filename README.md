@@ -58,7 +58,9 @@ The project has been deployed on github pages which can be found here : [Link To
 # Contact
 
 Santosh Shivam [Twitter](http://twitter.com/santshvm) | [LinkedIn](https://www.linkedin.com/in/santosh-shivam/)
-
+<br> 
+<br> 
+<hr> 
 <p align="center"> 
   Santosh Shivam 2022 ©
  </p> 
